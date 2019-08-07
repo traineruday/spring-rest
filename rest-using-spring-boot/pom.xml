@@ -9,11 +9,11 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath />
 	</parent>
-	<groupId>com.springpeople</groupId>
+	<groupId>com.examples.springrest</groupId>
 	<artifactId>rest-using-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rest-using-spring-boot</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Rest using spring boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
